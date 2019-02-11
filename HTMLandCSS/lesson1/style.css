@@ -8,13 +8,16 @@
      -ms-box-sizing: border-box;
      box-sizing: border-box;
  } 
-
+.title{
+    background-color: aqua;
+    margin: 20px;
+}
  .image{
-     max-width: 460px;
+     max-width: 50% auto;
  }
 
  .description{
-    max-width: 750px;
+    max-width: 50% auto;
 }
 
 .app{
