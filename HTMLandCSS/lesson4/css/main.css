@@ -1,0 +1,12 @@
+body{
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+}
+
+.text-thin{
+    font-weight: 100;
+}
+
+.hand{
+    cursor: pointer;
+}
